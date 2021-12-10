@@ -1,3 +1,4 @@
+/*
 package _2_ByteCode;
 
 
@@ -15,4 +16,4 @@ public class MoimTest
             moim.numbetOfEnrollment = 10;
             Assert.assertFalse(moim.isEnrollmentFull());
         }
-    }
+    }*/
